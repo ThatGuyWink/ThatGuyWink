@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ThatGuyWink
 - 👀 I’m interested in becoming a Software Developer
-- 🌱 I’m currently learning every language I can get my hands on. It isn't the easiest, but it's definitely the funnest. 
+- 🌱 I’m currently learning every language I can get my hands on. I enjoy writing in Java and C++ the most and am very interested in learning more Python. 
 - 📫 How to reach me justin.winkler1221@gmail.com
 
 <!---
